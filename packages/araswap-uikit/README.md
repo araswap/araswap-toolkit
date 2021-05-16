@@ -1,4 +1,4 @@
-# 🥞 Araswap UIkit
+# 🍀 Araswap UIkit
 
 [![Version](https://img.shields.io/npm/v/@araswap/uikit)](https://www.npmjs.com/package/@araswap/uikit) [![Size](https://img.shields.io/bundlephobia/min/@araswap/uikit)](https://www.npmjs.com/package/@araswap/uikit)
 
