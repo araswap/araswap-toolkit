@@ -1,6 +1,6 @@
 {
   "name": "@araswap/eslint-config-araswap",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Eslint config for AraSwap",
   "main": "lib/index.js",
   "files": [
